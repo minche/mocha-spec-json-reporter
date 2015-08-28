@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-npm install https://github.com/bosnian/mocha-spec-json-reporter
+npm install git@github.com:bosnian/mocha-spec-json-reporter.git
 ```
 
 ## Usage
