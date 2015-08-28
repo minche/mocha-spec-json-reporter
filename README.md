@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-sudo npm -g install mocha-spec-json-reporter
+npm install git@github.com:bosnian/mocha-spec-json-reporter.git
 ```
 
 ## Usage
